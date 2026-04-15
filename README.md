@@ -1,6 +1,6 @@
 # python-job-scheduler
 Python Job Scheduler (Portfolio Version)
-A modular, extensible Python scheduling engine that demonstrates how to parse structured task data, normalize fields, estimate travel time, calculate efficiency, and rank daily workloads.
+A modular, extensible Python scheduling engine that demonstrates how to parse structured task data from website or other external sources, normalize fields, estimate travel time, calculate efficiency, and rank daily workloads to build a day by day route schedule.
 This is a safe, sanitized version of a larger private system designed for real‑world field‑service optimization.
 
 🚀 Overview
